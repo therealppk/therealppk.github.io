@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/therealppk/therealppk.github.io/static/css/main.0484dfbd.css",
-    "main.js": "/therealppk/therealppk.github.io/static/js/main.c69c3497.js",
-    "static/js/453.9c5870a5.chunk.js": "/therealppk/therealppk.github.io/static/js/453.9c5870a5.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/therealppk/therealppk.github.io/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/therealppk/therealppk.github.io/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
-    "static/media/react.svg": "/therealppk/therealppk.github.io/static/media/react.72c29e6070cea639edb98b8ee649584c.svg",
-    "index.html": "/therealppk/therealppk.github.io/index.html",
-    "main.0484dfbd.css.map": "/therealppk/therealppk.github.io/static/css/main.0484dfbd.css.map",
-    "main.c69c3497.js.map": "/therealppk/therealppk.github.io/static/js/main.c69c3497.js.map",
-    "453.9c5870a5.chunk.js.map": "/therealppk/therealppk.github.io/static/js/453.9c5870a5.chunk.js.map"
+    "main.css": "/therealppk.github.io/static/css/main.c9e8ce57.css",
+    "main.js": "/therealppk.github.io/static/js/main.00111978.js",
+    "static/js/453.9c5870a5.chunk.js": "/therealppk.github.io/static/js/453.9c5870a5.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/therealppk.github.io/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/therealppk.github.io/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/react.svg": "/therealppk.github.io/static/media/react.72c29e6070cea639edb98b8ee649584c.svg",
+    "index.html": "/therealppk.github.io/index.html",
+    "main.c9e8ce57.css.map": "/therealppk.github.io/static/css/main.c9e8ce57.css.map",
+    "main.00111978.js.map": "/therealppk.github.io/static/js/main.00111978.js.map",
+    "453.9c5870a5.chunk.js.map": "/therealppk.github.io/static/js/453.9c5870a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0484dfbd.css",
-    "static/js/main.c69c3497.js"
+    "static/css/main.c9e8ce57.css",
+    "static/js/main.00111978.js"
   ]
 }
