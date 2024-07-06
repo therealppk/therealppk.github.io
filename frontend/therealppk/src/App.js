@@ -9,6 +9,20 @@ import Footer from "./components/footer";
 function App() {
     const experience_records = [
         {
+            company: "DataGenie",
+            role: "Data Engineer (Consultant)",
+            period: "June 2024 - Current",
+            description: (
+                "Currently <b>migrating core data pipelines</b> from Scala Spark to PySpark improving code " +
+                "comprehensibility, and <b>developing python packages</b> for common functionality across different " +
+                "repositories."
+            ),
+            techUsed: {
+                languages: "Python, Scala",
+                packages: "Pydantic",
+                platforms_and_tools: "Spark (PySpark), Databricks, Git"
+            }
+        },{
             company: "Cloudflare",
             role: "Data Engineer Intern",
             period: "June 2023 - August 2023",
